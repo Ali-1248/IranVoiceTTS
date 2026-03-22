@@ -1,4 +1,4 @@
-# 🎙️ AI Voice Studio Pro (IranVoiceTTS) V1.0
+# 🎙️ AI Voice Studio Pro (IranVoiceTTS) V3.0
 
 **استودیو هوشمند تبدیل متن به گفتار فارسی**؛ یک راهکار حرفه‌ای، متن‌باز و High-Performance برای تولید صداهای طبیعی (Human-Like) از متون فارسی با بهره‌گیری از هوش مصنوعی.
 
@@ -27,9 +27,7 @@
 
 | حالت تیره (Dark Mode) | حالت روشن (Light Mode) |
 | :---: | :---: |
-|  |  |
-
-*نمای کلی از بخش مدیریت تاریخچه و تولید صدا*
+| ![Dark UI](screenshots/Dark_Mode.png) | ![Light UI](screenshots/Light_Mode.png) |
 
 -----
 
